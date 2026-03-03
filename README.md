@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Karthik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karthiii08/)
 [![GitHub](https://img.shields.io/badge/GitHub-Karthikkarthiiio8-black?style=flat&logo=github)](https://github.com/Karthikkarthiiio8)
 [![Email](https://img.shields.io/badge/Email-srinivasshimsha2004@gmail.com-red?style=flat&logo=gmail)](mailto:srinivasshimsha2004@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bengaluru)
@@ -97,7 +97,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Karthik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthiii08/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:srinivasshimsha2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Karthikkarthiiio8)
 
